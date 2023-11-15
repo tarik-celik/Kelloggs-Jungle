@@ -1,6 +1,6 @@
 # **Kellogg's Jungle**
 
-A video game from circa 2012.
+A lost video game from circa 2012.
 
 You can download it from there: https://archive.org/details/kelloggs-jungle
 
